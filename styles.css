@@ -204,7 +204,7 @@ a{
 }
 
 .top-right-avatar{
-    background-image: url(/images/dog.png);
+    background-image: url(./images/dog.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
